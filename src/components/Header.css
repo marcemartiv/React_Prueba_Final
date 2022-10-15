@@ -1,0 +1,9 @@
+.banner {
+    background-image: url('https://themes.muffingroup.com/be/pizza/wp-content/uploads/2014/09/home_pizza_subheader.jpg');
+    height: 45vh;
+    border-radius: 0rem!important;
+}
+
+.mask {
+    background-color: rgba(0, 0, 0, 0.6);
+}
